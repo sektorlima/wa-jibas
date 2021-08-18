@@ -1,0 +1,1 @@
+start "wajibas" java -jar whatsapp-client-0.0.1-SNAPSHOT.jar
